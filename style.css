@@ -1,0 +1,56 @@
+/* h1{
+    font-size: 50px;
+    font-family: 'Work Sans', sans-serif;   
+}
+.left{
+    width:30%;
+}
+
+.name-highlight {
+    color: rgb(255, 0, 0);
+ }
+ .half-width{
+     width:40%;
+     float:right;
+ } */
+
+h1{
+    font-family: 'Work Sans', sans-serif;   
+    font-size: 50px;
+    margin: 0;
+}
+
+h2{
+    font-family: 'Work Sans', sans-serif;   
+    font-size: 50px;
+    margin-top: 0;
+}
+
+.name-highlight {
+    color: rgb(255, 0, 0);
+ }
+
+ .hero{
+     width: 75%;
+     margin: 0 auto;
+     overflow: hidden;
+     margin-top: 100px;
+ }
+
+ .half-width{
+     width: 50%;
+     display: inline-block;
+     float: left;
+ }
+
+ .hw-left{
+    padding-top: 200px;
+ }
+
+ .half-width h3{
+     padding-right: 25%;
+ }
+
+ .half-width img{
+     width: 100%;
+ }
