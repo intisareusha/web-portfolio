@@ -13,6 +13,10 @@
      width:40%;
      float:right;
  } */
+ .top-banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+ }
 
 h1{
     font-family: 'Work Sans', sans-serif;   
@@ -31,20 +35,24 @@ h2{
  }
 
  .hero{
-     width: 75%;
-     margin: 0 auto;
+     width: 80%;
+     margin: 0 auto ;
      overflow: hidden;
-     margin-top: 100px;
+     margin-top: 10px;
+     
+     
+     background-repeat: no-repeat;
  }
 
  .half-width{
-     width: 50%;
-     display: inline-block;
+     width: 45%;
+     
      float: left;
  }
 
  .hw-left{
     padding-top: 200px;
+    
  }
 
  .half-width h3{
@@ -54,3 +62,47 @@ h2{
  .half-width img{
      width: 100%;
  }
+ .link-button{
+     text-decoration: none;
+     background-image:linear-gradient(45deg, lightsalmon,tomato);
+     padding: 10px 20px;
+     border-radius: 5px;
+     color:white;
+     font-weight: 700;
+
+ }
+ .queen{
+     width: 80%;
+     margin:0 auto;
+     overflow: hidden;
+     background-image: url("images/dream-bg.png");
+     background-repeat: no-repeat;
+     background-position: right bottom;
+     background-margin: 200px;
+    
+ }
+ .secondary{
+    font-family: 'Otomanopee One', sans-serif;
+     width:40%;
+     margin-top: 100px;
+     float:left;
+ }
+ .secondary img{
+    width:95%;
+     padding-right: 30%;
+ }
+ .secondary h2{
+     margin:0;
+ }
+ .secondary h3{
+    margin-top:0;
+}
+.text-top{
+    margin-top: 200px;
+    margin-left: 80px;
+    padding-right: 10%;
+}
+.bottom-banner{
+   
+   
+}
